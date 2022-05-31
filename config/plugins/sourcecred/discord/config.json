@@ -13,7 +13,7 @@
       "applyAveraging": false,
       "defaultWeight": 0,
       "weights": {
-        "🍬": 1
+        "🍬": 10
       }
     },
     "roleWeightConfig": {
